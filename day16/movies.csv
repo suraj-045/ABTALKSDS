@@ -1,0 +1,16 @@
+Movie,Genre,Action_Score,Comedy_Score,Drama_Score,Rating,Watch_Time_Min
+Inception,Sci-Fi,9,2,1,8.3,168
+Interstellar,Sci-Fi,8,1,1,9.3,162
+The Dark Knight,Action,10,1,0,6.9,153
+Avengers Endgame,Action,9,2,0,7.6,91
+Titanic,Romance,2,10,8,8.0,176
+The Notebook,Romance,1,9,7,7.7,117
+Joker,Drama,4,2,10,6.9,177
+Parasite,Thriller,5,1,9,9.1,166
+John Wick,Action,10,0,1,6.9,115
+Frozen,Animation,1,8,4,7.1,161
+Toy Story,Animation,2,9,3,8.6,119
+The Conjuring,Horror,3,1,8,6.6,95
+Annabelle,Horror,2,1,9,9.0,168
+La La Land,Musical,2,10,6,7.0,173
+Fast & Furious,Action,9,1,1,6.8,135
