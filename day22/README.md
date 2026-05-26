@@ -9,3 +9,9 @@
 
 ## Key Learning
 Feature encoding converts categorical values into numerical signals for Machine Learning systems.
+
+## Dataset
+
+Kaggle Credit Card Fraud Detection Dataset:
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
